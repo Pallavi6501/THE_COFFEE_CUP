@@ -17,7 +17,7 @@ html{
     overflow-x: hidden;
 }
 body{
-    background:url("bg2.jpeg") no-repeat;
+    background:url('../images/bg2.jpeg'); no-repeat;
     background-size: cover;
     background-position: center;
 }
